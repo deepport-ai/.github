@@ -23,7 +23,7 @@ Welcome to Deepport GitHub space!
 ## Connect With Me 🤝
 <!-- Add your professional social links here -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepport&show_icons=true&theme=radical)](https://github.com/Deepport)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepport-ai&show_icons=true&theme=radical)](https://github.com/deepport-ai)
 
 ---
 ⭐️ 
